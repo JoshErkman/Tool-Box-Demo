@@ -8,6 +8,9 @@ namespace ToolBoxDemo
 {
     class Program
     {
+        //Functions are methods written outside of a custom class
+        //Methods are fuctions written inside of a custom class
+
         //acts as our programs .exe file, aka executable
         //This is the file we double click on to start any program
         static void Main(string[] args) 
@@ -32,8 +35,6 @@ namespace ToolBoxDemo
             KeyToContinueWithClearConsole();
             Console.ReadLine();
 
-            //Functions are methods written outside of a custom class
-            //Methods are fuctions written inside of a custom class
 
             //Functions below this line
             void KeyToContinue()
@@ -45,7 +46,7 @@ namespace ToolBoxDemo
             void ClearConsole()
             {
                 Console.Clear();
-               // Console.WriteLine("Congratulations! You've cleared the console!...hit ENTER to close the program.");
+              
             }
             
             void KeyToContinueWithClearConsole()
