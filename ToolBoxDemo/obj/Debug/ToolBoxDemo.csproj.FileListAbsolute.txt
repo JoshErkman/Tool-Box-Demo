@@ -1,0 +1,7 @@
+C:\Users\erkma\Desktop\ClassCodeAlong\ToolBoxDemo\ToolBoxDemo\bin\Debug\ToolBoxDemo.exe.config
+C:\Users\erkma\Desktop\ClassCodeAlong\ToolBoxDemo\ToolBoxDemo\bin\Debug\ToolBoxDemo.exe
+C:\Users\erkma\Desktop\ClassCodeAlong\ToolBoxDemo\ToolBoxDemo\bin\Debug\ToolBoxDemo.pdb
+C:\Users\erkma\Desktop\ClassCodeAlong\ToolBoxDemo\ToolBoxDemo\obj\Debug\ToolBoxDemo.csprojAssemblyReference.cache
+C:\Users\erkma\Desktop\ClassCodeAlong\ToolBoxDemo\ToolBoxDemo\obj\Debug\ToolBoxDemo.csproj.CoreCompileInputs.cache
+C:\Users\erkma\Desktop\ClassCodeAlong\ToolBoxDemo\ToolBoxDemo\obj\Debug\ToolBoxDemo.exe
+C:\Users\erkma\Desktop\ClassCodeAlong\ToolBoxDemo\ToolBoxDemo\obj\Debug\ToolBoxDemo.pdb
